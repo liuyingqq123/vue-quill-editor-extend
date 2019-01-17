@@ -1,5 +1,8 @@
 # 基于vue-quill-editor扩展的几个增强组件
 
+
+![image](https://github.com/liuyingqq123/vue-quill-editor-extend/blob/master/src/assets/demo.png)
+
 功能：
 
 * 提供图片上传到服务器的功能，具体用法请参考[quill-image-extend-module](https://github.com/NextBoy/quill-image-extend-module)
@@ -28,6 +31,3 @@ npm install quill-image-resize-module -S
 ### 二. 扩展组件使用
 1. 把src/components/editor文件夹拷贝到你的项目组件库中
 2. src/views/demo/LlEditor.vue这个文件就是该扩展组件的用法, 可以基于这个组件在项目里自己二次封装
-
-
-![image](https://github.com/liuyingqq123/vue-quill-editor-extend/blob/master/src/assets/demo.png)
